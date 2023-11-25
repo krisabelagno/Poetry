@@ -2,10 +2,10 @@
 body {
     
     font-family: 'Times New Roman', Times, serif;
-    font-size: 100%;
+    font-size: 80%;
     color: black;
     background-color: #f8f8f8;
-    background-image: url("poetrybg.jpg");
+    background-image: url("poetry.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100% ;
     padding: 0%;
@@ -15,8 +15,8 @@ body {
 h1{
 	text-align: center;
 	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-	font-size: 3em;
-	color: rgb(252, 169, 198);
+	font-size: 3.9em;
+	color: #B0CF98;
 }
 
 p{
@@ -55,7 +55,7 @@ th, td {
         
 th, td {
     text-align: left;
-    background-color: transparent;
+    background-color: #B7BF96;
     border-top: 1px solid black;
     border-bottom: 1px solid black;
     border-right: 1px solid black;
@@ -75,7 +75,7 @@ tr.head th {
 
 
 tr.even td, tr.even th {
-    background-color:transparent;
+    background-color: #E1EDBD;
 }
 
 tr.head th:first-child {
@@ -125,7 +125,7 @@ input[type="text"]:hover {
 
 input[type="submit"] {
     border: 1px solid #006633;
-    background-color: transparent;
+    background-color: #0e300a;
     color: #ffffff;
     border-radius: 5px;
     padding: 5px;
@@ -143,14 +143,14 @@ input[type="submit"]:hover {
     float: left;
     width: 160px;
     clear: left;
-    color: white;
+    color: black;
 }
 
 .title1 {
     float: left;
     width: 50%;
     clear: left;
-    color: white;
+    color: black;
 }
 
 #location {
